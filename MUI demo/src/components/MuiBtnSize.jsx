@@ -1,4 +1,4 @@
-import { Stack, Button } from "@mui/material;";
+import { Stack, Button } from "@mui/material";
 
 export const MuiBtnSize = () => {
   return (
