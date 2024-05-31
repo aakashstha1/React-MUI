@@ -28,18 +28,7 @@ export const MuiButton = () => {
         <Button variant="contained" color="warning">
           warning
         </Button>
-      </Stack>
-      <Stack display="block" spacing={2} direction="row">
-        <Button variant="contained" size="small">
-          Small
-        </Button>
-        <Button variant="contained" size="medium">
-          medium
-        </Button>
-        <Button variant="contained" size="large">
-          large
-        </Button>
-      </Stack>
+      </Stack> 
     </Stack>
   );
 };
