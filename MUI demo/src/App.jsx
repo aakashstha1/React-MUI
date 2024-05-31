@@ -1,13 +1,17 @@
 import "./App.css";
-import { MuiTypography } from "./components/MuiTypography";
-import { MuiButton } from "./components/MuiButton";
-import { MuiBtnSize } from "./components/MuiBtnSize";
+import { MuiBtnGroup } from "./components/MuiBtnGroup";
+// import { MuiTypography } from "./components/MuiTypography";
+// import { MuiButton } from "./components/MuiButton";
+// import { MuiBtnSize } from "./components/MuiBtnSize";
+import { MuiIconBtn } from "./components/MuiIconBtn";
 function App() {
   return (
     <>
-      <MuiTypography />
+      {/* <MuiTypography />
       <MuiButton />
-      <MuiBtnSize />
+      <MuiBtnSize /> */}
+      <MuiIconBtn/>
+      <MuiBtnGroup/>
     </>
   );
 }
