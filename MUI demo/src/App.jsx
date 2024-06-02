@@ -1,10 +1,10 @@
 import "./App.css";
-import { MuiTextField } from "./components/MuiTextField";
-// import { MuiToggleBtn } from "./components/MuiToggleBtn";
-// import { MuiTypography } from "./components/MuiTypography";
-// import { MuiButton } from "./components/MuiButton";
-// import { MuiBtnSize } from "./components/MuiBtnSize";
-// import { MuiIconBtn } from "./components/MuiIconBtn";
+import { MuiTextField } from "./Day3/MuiTextField";
+// import { MuiToggleBtn } from "./Day3/MuiToggleBtn";
+// import { MuiTypography } from "./Day1/MuiTypography";
+// import { MuiButton } from "./Day1/MuiButton";
+// import { MuiBtnSize } from "./Day2/MuiBtnSize";
+// import { MuiIconBtn } from "./Day2/MuiIconBtn";
 function App() {
   return (
     <>
