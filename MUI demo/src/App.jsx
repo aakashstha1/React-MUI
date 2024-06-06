@@ -1,5 +1,7 @@
 import "./App.css";
-import { MuiAutocomplete } from "./Day6/MuiAutocomplete";
+import { MuiGrid } from "./Day7/MuiGrid";
+// import { MuiBox } from "./Day7/MuiLayout";
+// import { MuiAutocomplete } from "./Day6/MuiAutocomplete";
 // import { MuiSwitch } from "./Day5/MuiSwitch";
 // import { MuiCheckbox } from "./Day5/MuiCheckbox";
 // import { MuiRating } from "./Day6/MuiRating";
@@ -25,7 +27,9 @@ function App() {
       {/* <MuiCheckbox />
       <MuiSwitch /> */}
       {/* <MuiRating /> */}
-      <MuiAutocomplete />
+      {/* <MuiAutocomplete /> */}
+      {/* <MuiBox /> */}
+      <MuiGrid />
     </>
   );
 }
