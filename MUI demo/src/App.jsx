@@ -1,5 +1,7 @@
 import "./App.css";
-import { MuiNavbar } from "./Day9/MuiNavbar";
+import { MuiLink } from "./Day10/MuiLink";
+// import { MuiMenu } from "./Day10/MuiMenu";
+// import { MuiNavbar } from "./Day9/MuiNavbar";
 // import { MuiAccordino } from "./Day8/MuiAccordino";
 // import { MuiImageList } from "./Day9/MuiImageList";
 // import { MuiBox } from "./Day7/MuiLayout";
@@ -38,7 +40,9 @@ function App() {
       {/* <MuiCard /> */}
       {/* <MuiAccordino /> */}
       {/* <MuiImageList /> */}
-      <MuiNavbar/>
+      {/* <MuiNavbar/> */}
+      {/* <MuiMenu/> */}
+      <MuiLink />
     </>
   );
 }
